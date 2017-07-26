@@ -11,5 +11,5 @@ Groups photos by aspect ratio. Creates subfolder with grouped photos. Groups for
 python group.py --path=<source path> --target=<destination path>
 ```
 
-- `source path` is required. It should point to direcotry with photos
-- `destination path` is optional. If not given subfolders will be created in source path 
+- `--path=<source path>` is required. It should point to direcotry with photos
+- `--target=<destination path>` is optional. If not given subfolders will be created in source path 
